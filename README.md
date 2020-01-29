@@ -1,6 +1,6 @@
 # Multiplexer
 
-<source code for multiplexer suits>
+-- source code for multiplexer suits -- 
 
 
 MULTIPLEXER is a speculative performance in which perpetual labor, network processing, and control protocols are poetically articulated as elements of a closed thermodynamic system. 
